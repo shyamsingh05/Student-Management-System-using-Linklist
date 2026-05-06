@@ -1,51 +1,58 @@
-# Student-Management-System-using-Linklist
-📚 Student Management System using Linked List (C++)
+# 📚 Student Management System using Linked List (C++)
 
-This project is a console-based Student Management System developed in C++ using the concept of a Singly Linked List. It enables efficient handling of student records through dynamic memory management.
+## 📌 Project Description
 
-🚀 Features
-➕ Insert student records:
-At beginning
-At end
-At specific position
-❌ Delete student records:
-From beginning
-From end
-From specific position
-🔍 Search student by name
-📋 Display (Traversal) all student records
-🔢 Count total number of students
-🆔 Auto-generated Student ID
-🛠️ Technologies Used
-Language: C++
-Concepts:
-Singly Linked List
-Dynamic Memory Allocation
-Object-Oriented Programming (OOP)
-🧠 How It Works
-Each student record is stored as a node containing:
-Student ID
-Student Name
-Course
-Nodes are linked together dynamically to form a linked list.
-The program uses a menu-driven interface for user interaction.
-▶️ How to Run
-Copy the code into a .cpp file
-Compile using any C++ compiler (Code::Blocks / VS Code / Turbo C++)
-Run the program
-Follow the menu options
-📌 Sample Operations
-Add new student details
-View all students
-Search student by name
-Delete student record
-Count total students
-👨‍🎓 Author
-**SHYAM SINGH**
-BCA 1st Year Student
-This project is created for learning and practicing Data Structures (Linked List).
+This project is a **Student Management System** developed using **C++**, based on the concepts of **Singly Linked List** and **Doubly Linked List**.
 
-💡 Future Improvements
-Add file handling for data storage
-Implement update/edit functionality
-Enhance user interface
+The main program acts as a controller that allows the user to choose between two types of linked list implementations. Based on the user’s selection, the system redirects to either the singly linked list module or the doubly linked list module.
+
+Each module provides a structured and menu-driven interface to manage student records efficiently. The project demonstrates how multiple files can be integrated into a single program and how different data structures can be used within one system.
+
+---
+
+## 🚀 Features
+
+* 📌 Menu-based selection between:
+
+  * Singly Linked List
+  * Doubly Linked List
+* 📂 Modular programming using multiple files
+* 🔄 Navigation between different data structure operations
+* 🖥️ Console-based interactive system
+
+---
+
+## 🛠️ Technologies Used
+
+* Programming Language: **C++**
+* Concepts Implemented:
+
+  * Singly Linked List
+  * Doubly Linked List
+  * File Inclusion (`#include` user-defined files)
+  * Classes & Objects
+  * Menu Driven Programming
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I learned:
+
+* How to combine multiple C++ files into one project
+* Implementation of different types of linked lists
+* Code modularity and structure
+* Designing user-friendly console applications
+
+---
+
+## 🙋‍♂️ Author
+
+**BCA 1st Year Student**
+Designed & Coded By **SHYAM SINGH**
+
+---
+
+## ⭐ Note
+
+If you like this project, don’t forget to ⭐ star the repository!
